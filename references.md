@@ -1,5 +1,3 @@
-### CRAZINESS!!!
+# References
 
-We're creating chaos!
-
-So much confusion and horror ;)
+* octocat 1 😈
